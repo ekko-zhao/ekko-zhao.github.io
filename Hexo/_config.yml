@@ -4,11 +4,11 @@
 
 # Site
 title: Ekko's Blog
-subtitle: Happppppppppy every day!
+subtitle: Good good study,day day upppppp!
 description: 
 keywords: 
 author: Ekko
-language: zh-Hans
+language: zh-CN
 timezone: 
 
 # URL
@@ -89,11 +89,6 @@ search:
   field: post
   format: html
   limit: 10000
-#RSS
-feed: #需要安装插件：npm install hexo-generator-feed --save
-  type: atom
-  path: atom.xml
-  limit: 20
-  hub: 
-#侧边栏头像
-avatar: http://img15.3lian.com/2015/h1/289/d/39.jpg
+
+#头像
+avatar: /images/avatar.jpg
