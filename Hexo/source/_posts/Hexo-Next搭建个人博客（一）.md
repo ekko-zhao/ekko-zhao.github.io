@@ -1,7 +1,7 @@
 ---
 title: Hexo+Next搭建个人博客（一）
 date: 2018-06-17 13:43:40
-tags:
+tags: next
 ---
 
 # 一、前言
